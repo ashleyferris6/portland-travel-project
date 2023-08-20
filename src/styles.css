@@ -2,6 +2,7 @@
   --primary-font: "Poppins", sans-serif;
   --dark-color: #272044;
 }
+
 body {
   font-family: var(--primary-font);
   background: var(--dark-color);
@@ -60,6 +61,7 @@ main {
 main img {
   margin: 20px 0;
 }
+
 main h2 {
   color: var(--dark-color);
   opacity: 0.3;
